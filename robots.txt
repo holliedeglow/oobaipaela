@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eexeemudoh.alisamarch.com/sitemap.xml
